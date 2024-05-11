@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning obessed with script automation
+- 🌱 I’m currently learning obessed with writing automation scripts
 
 - 📫 How to reach me **chase.forbes14@gmail.com**
 
