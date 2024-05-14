@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm William</h1>
-<!-- <h3 align="center">A recent Computer Science graduate from East Carolina University</h3> -->
+<h1 align="left">Hi 👋, I'm William</h1>
 
-- 🎓 B.S. Computer Science
+- 🎓 B.S. Computer Science | M.S. Software Engineering
   
 - 🔭 I’m currently working on **personal projects**
 
