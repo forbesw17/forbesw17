@@ -2,7 +2,7 @@
 
 - 🎓 B.S. Computer Science | M.S. Software Engineering
   
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working as a Software Consultant for East Carolina Univesity
 
 - 🌱 I’m currently obessed with writing automation scripts
 
