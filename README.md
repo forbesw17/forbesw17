@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working as a Software Consultant for East Carolina University
 
-- 🌱 I’m currently obessed with writing automation scripts
+- 🌱 I'm currently learning Jenkins right now. 
 
 - 📫 How to reach me **chase.forbes14@gmail.com**
 
