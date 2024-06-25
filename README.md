@@ -2,7 +2,7 @@
 
 - 🎓 B.S. Computer Science | M.S. Software Engineering
   
-- 🔭 I’m currently working as a Software Engineer for East Carolina University
+- 🔭 I’m currently working as a Software Engineer at East Carolina University
 
 - 🌱 I'm currently learning Jenkins right now. 
 
