@@ -2,7 +2,7 @@
 
 - 🎓 B.S. Computer Science | M.S. Software Engineering
   
-- 🔭 I’m currently working as a Contracted Software Engineer at East Carolina University and full-time Software Developer I at Venture Solutions
+- 🔭 I’m currently working as a contracted Software Engineer at East Carolina University and a full-time Software Developer I at Venture Solutions
 
 - 📫 How to reach me **chase.forbes14@gmail.com**
 
