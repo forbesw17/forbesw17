@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm William</h1>
 
 - 🎓 B.S. Computer Science | M.S. Software Engineering
-  
-- 🔭 I’m currently working as a contracted Software Engineer at East Carolina University and a full-time Software Developer I at Venture Solutions
 
 - 📫 How to reach me **chase.forbes14@gmail.com**
 
