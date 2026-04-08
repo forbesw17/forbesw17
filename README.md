@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm William</h1>
+<h1 align="center">Hi👋, I'm Chase</h1>
 
 - 🎓 B.S. Computer Science | M.S. Software Engineering
 
